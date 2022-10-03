@@ -58,3 +58,9 @@
     font-style: italic;
     font-weight: bold;
 }
+
+.menu-icon > .line {
+    background-color: #29292900;
+    height: 2px;
+    display: block;
+}
