@@ -45,6 +45,15 @@
 
 }
 
+.box {
+    
+    position: relative;
+    background-color: white;
+    border:2px solid rgba(59,58,58,0.46);
+    border-radius:20px;
+    box-shadow: -10px 5px 10px gray;
+}
+
 .degreeStyles{
     font-style: italic;
     font-weight: bold;
