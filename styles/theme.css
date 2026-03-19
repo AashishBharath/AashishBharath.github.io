@@ -1,0 +1,65 @@
+/*
+  Theme tokens.
+  To switch the full site color scheme, change siteConfig.theme in lib/site-config.ts.
+  Supported: professional, midnight, forest.
+*/
+
+:root,
+:root[data-theme="professional"] {
+  --font-body: "Sora", "Avenir Next", "Segoe UI", sans-serif;
+  --font-display: "Merriweather", "Georgia", serif;
+
+  --color-bg: #f3f5f8;
+  --color-surface: #ffffff;
+  --color-surface-muted: #eef1f6;
+  --color-text: #1a2433;
+  --color-text-muted: #576176;
+  --color-border: #d8e0ec;
+  --color-primary: #1d4ed8;
+  --color-primary-soft: #dbe7ff;
+  --color-accent: #0f766e;
+
+  --shadow-soft: 0 8px 24px rgba(15, 23, 42, 0.08);
+  --shadow-medium: 0 14px 36px rgba(15, 23, 42, 0.14);
+
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+
+  --max-width: 1100px;
+}
+
+:root[data-theme="midnight"] {
+  --color-bg: #0f172a;
+  --color-surface: #162036;
+  --color-surface-muted: #1e2b46;
+  --color-text: #e6edf8;
+  --color-text-muted: #a9b7d4;
+  --color-border: #2f4268;
+  --color-primary: #60a5fa;
+  --color-primary-soft: #1d3159;
+  --color-accent: #34d399;
+  --shadow-soft: 0 10px 26px rgba(3, 8, 20, 0.35);
+  --shadow-medium: 0 18px 40px rgba(3, 8, 20, 0.5);
+}
+
+:root[data-theme="forest"] {
+  --color-bg: #f2f7f2;
+  --color-surface: #ffffff;
+  --color-surface-muted: #e7f1e8;
+  --color-text: #1e2c22;
+  --color-text-muted: #56685a;
+  --color-border: #cce0cf;
+  --color-primary: #2f855a;
+  --color-primary-soft: #d7eee0;
+  --color-accent: #2c7a7b;
+}

@@ -1,0 +1,125 @@
+{
+  "experience": [
+    {
+      "title": "AI Solutions Developer",
+      "dateRange": "Jan 2025 - Present",
+      "details": [
+        "Leveraged Azure AI Foundry to develop enterprise wide internal LLM Tool (EVA) used by ~3,000 internal users.",
+        "Built agentic backend for EVA to support code interpreter, document upload/download, web search, and RAG.",
+        "Architected and built a scalable RAG pipeline for internal customers to curate and deploy RAG Agents using Azure AI Search.",
+        "Worked with users  to continuosly improve EVA.",
+        "Aided in creation of best practices and sustainable use of Gen AI."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "dateRange": "Jan 2024 - Jan 2025",
+      "details": [
+        "Served as lead technical contributor for a sales opportunity ranking system.",
+        "Developed a predictive model using XGBoost. Model output is being used to create leads for sales teams around the country.",
+        "Engineered 6 source of truth data assets in Google Cloud for the Commercial Service Analytics team.",
+        "Developed pipelines to extract, transform, and load data for multiple use cases."
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "dateRange": "Jun 2022 - Aug 2022",
+      "details": [
+        "Conducted an objective analysis to uncover discrepancies in reporting and customer experience with 3rd party ticketing service.",
+        "Developed a web app using Python and Streamlit that allows users to extract their metadata from Tableau Dashboards and Alteryx Workflows."
+      ]
+    },
+    {
+      "title": "EPIC Analytics & Data Science Intern · Trane Technologies",
+      "dateRange": "Jun 2022 - Aug 2022",
+      "details": [
+        "Led a project to improve copper price prediction accuracy using machine learning methods.",
+        "Created an automated tool for injecting and testing new variables in an existing model workflow.",
+        "Used Python and core data science libraries (Pandas, NumPy, Scikit-learn, TensorFlow/Keras)."
+      ]
+    },
+    {
+      "title": "Operations Student Worker · University of St. Thomas",
+      "dateRange": "Aug 2021 - Jan 2022",
+      "details": [
+        "Processed and indexed registrar documents with high attention to record quality.",
+        "Supported incoming, current, and former students through operations requests."
+      ]
+    },
+    {
+      "title": "Baker / Market Sales · T-Rex Cookies",
+      "dateRange": "May 2018 - May 2022",
+      "details": [
+        "Handled end-to-end product prep, sales, and customer interactions in market settings.",
+        "Developed consistency and communication under fast-paced operational constraints."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "University of St. Thomas",
+      "dateRange": "Sep 2020 - May 2023",
+      "details": [
+        "B.S. in Data Analytics",
+        "B.A. in Economics",
+        "Minor in Computer Science"
+      ]
+    }
+  ],
+
+  "skillGroups": [
+    {
+      "title": "Technical Skills",
+      "tags": [
+        "LLM/Agentic Orchestration",
+        "Prompt Engineering",
+        "Machine Learning",
+        "Forecasting",
+        "Data Visualization",
+        "High-Dimensional Analysis",
+        "Communication",
+        "Model Evaluation"
+      ]
+    },
+    {
+      "title": "Process",
+      "tags": [
+        "Development at Scale",
+        "Process Improvement",
+        "Growth Mindset",
+        "Collaboration",
+        "Crtiical & Creative Thinking",
+        "Detail Oriented",
+        "Communication",
+        "UI/UX"
+      ]
+    },
+    {
+      "title": "Tech Stack",
+      "tags": [
+        "Azure/GCP/AWS",
+        "Github",
+        "Codex/Claude Code",
+        "React/React Native",
+        "Tableau",
+        "Alteryx",
+        "Dataiku",
+        "Supabase - Postgres SQL",
+        "UV/Poetry/Conda",
+        "PyTest"
+      ]
+    },
+    {
+      "title": "Languages",
+      "tags": [
+        "Python",
+        "SQL",
+        "R",
+        "Java",
+        "Git",
+        "HTML/CSS",
+        "VBA"
+      ]
+    }
+  ]
+}
