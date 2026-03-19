@@ -1,0 +1,81 @@
+{
+  "personalProjects":
+  {
+    "title": "Personal Projects",
+    "items": [
+      {
+        "title":"Snowball",
+        "summary":"Built a personal habit tracking app and launched on the iOS App Store",
+        "details": [
+          "Built an app from the ground up using React Native and Expo"
+        ],
+        "tags": [
+          "React Native",
+          "TypeScript",
+          "PostGres",
+          "Expo",
+          "Product Launching"
+        ],
+        "image": {
+        },
+        "date":"2024"
+      }
+    ]
+
+  },
+  "caseStudies": {
+    "title": "Case Studies",
+    "items": [
+      {
+        "title": "Trane Technologies: Copper Price Modeling",
+        "summary": "Built and tested machine learning approaches to improve copper price forecasting for the Global Procurement team.",
+        "details": [
+          "Researched and integrated new data sources into an existing dataset.",
+          "Ran feature and model experiments to evaluate incremental accuracy gains.",
+          "Delivered a reusable automation tool for future variable testing."
+        ],
+        "tags": [
+          "Python",
+          "Pandas",
+          "Forecasting",
+          "Procurement Analytics"
+        ],
+        "image": {
+        },
+        "date":"2022"
+      },
+      {
+        "title": "UST Matriculation Forecasting",
+        "summary": "Built a generalized linear model to predict student enrollment likelihood using 6 years of admissions data.",
+        "details": [
+          "Defined and validated predictors linked to enrollment decisions.",
+          "Collaborated in a team setting to structure the analysis pipeline.",
+          "Achieved a high-accuracy predictive model for final course delivery."
+        ],
+        "tags": [
+          "GLM",
+          "R / Python",
+          "Education Analytics"
+        ],
+        "image": {
+
+        },
+        "date":"2022"    },
+      {
+        "title": "DataCom 2022 Research Competition",
+        "summary": "Investigated mental health and physical activity relationships using CDC survey data in a competitive research setting.",
+        "details": [
+          "Formulated a testable research question with measurable variables.",
+          "Evaluated data quality constraints and survey ambiguity impacts.",
+          "Presented findings and methodological limitations with clear framing."
+        ],
+        "tags": [
+          "Statistical Testing",
+          "Survey Data",
+          "Research Communication"
+        ],
+        "date":"2022"
+      }
+    ]
+  }
+}

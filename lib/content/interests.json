@@ -1,0 +1,74 @@
+{
+  "sections": [
+    {
+      "title": "Drone Photography",
+      "description": "Captured with a DJI Mini 2 while traveling. I like images that reveal familiar places from uncommon angles.",
+      "items": [
+        {
+          "image": {
+            "src": "/images/MLakesDrone.JPG",
+            "alt": "Drone photo over Mammoth Lakes"
+          },
+          "caption": "Mammoth Lakes"
+        },
+        {
+          "image": {
+            "src": "/images/crowders.JPG",
+            "alt": "Drone photo above Crowders Mountain"
+          },
+          "caption": "Crowders Mountain"
+        },
+        {
+          "image": {
+            "src": "/images/RedRock.JPG",
+            "alt": "Drone photo over Red Rock landscape"
+          },
+          "caption": "Red Rock"
+        }
+      ]
+    },
+    {
+      "title": "AI Generated Images",
+      "description": "A sample of DALL-E explorations. Click an image to see the original generation reference.",
+      "sectionLink": {
+        "label": "More on Instagram",
+        "href": "https://www.instagram.com/opticalities/",
+        "external": true
+      },
+      "items": [
+        {
+          "image": {
+            "src": "/images/dalleMtns.PNG",
+            "alt": "AI generated mountain city concept art"
+          },
+          "caption": "Mountain concept exploration",
+          "href": "https://labs.openai.com/s/diubrmOrUtDTWkscbTBUvYfS"
+        },
+        {
+          "image": {
+            "src": "/images/dalleNY.PNG",
+            "alt": "AI generated futuristic New York concept"
+          },
+          "caption": "Urban future scene",
+          "href": "https://labs.openai.com/s/RRFkzePQlf4nWz3yVkFsxrHj"
+        },
+        {
+          "image": {
+            "src": "/images/dalleUtopia.PNG",
+            "alt": "AI generated utopian landscape"
+          },
+          "caption": "Utopian landscape study",
+          "href": "https://labs.openai.com/s/uixePQD2A3wwGZjpAL1aLI0g"
+        },
+        {
+          "image": {
+            "src": "/images/dallePlane.PNG",
+            "alt": "AI generated aircraft scene"
+          },
+          "caption": "Aviation-themed concept",
+          "href": "https://labs.openai.com/s/HJBcvZ5lEPDNolbP6r1XDqvU"
+        }
+      ]
+    }
+  ]
+}
