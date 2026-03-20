@@ -16,10 +16,10 @@ export default function ProjectsPage() {
       <div className="page">
         <section className="hero">
           <span className="eyebrow">Projects</span>
-          <h1 className="hero-title">
+          <h1 className="hero-title home-hero-lead">
             Applied projects with clear outcomes and lessons learned.
           </h1>
-          <p className="hero-lead">
+          <p className="hero-lead home-hero-lead">
             Each project reflects a practical workflow: define the problem, test
             viable approaches, and communicate decisions with transparency.
           </p>

@@ -22,7 +22,7 @@ export default function ResumePage() {
           {/**<h6 className="hero-title">
           Software Engineer specializing in scalable AI/LLM systems, multi-agent orchestration, and production-grade architecture.
           </h6>**/}
-          <p className="hero-lead">
+          <p className="hero-lead home-hero-lead">
             My career thus far has been short, yet eventuful. I started my career
             in the Analytics and Data Science space. Recently, I have found myself in the world of 
             Software Developement and LLMs. This area of work fascinates and keeps me on my toes. I am in
