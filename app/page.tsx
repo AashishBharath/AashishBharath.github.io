@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Aashish Bharath | Data Science Portfolio",
+  title: "Aashish Bharath | Personal Website",
   description:
     "Personal website of Aashish Bharath, showcasing projects, experience, and interests in data science and analytics."
 };
