@@ -200,6 +200,12 @@ main {
   max-width: 66ch;
 }
 
+.home-hero-lead {
+  margin-inline: auto;
+  text-align: center;
+  padding-bottom: var(--space-3);
+}
+
 .media-frame {
   position: relative;
   overflow: hidden;
@@ -221,6 +227,11 @@ main {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-3);
+}
+
+.home-hero-buttons {
+  justify-content: center;
+  margin-top: var(--space-2);
 }
 
 .button {

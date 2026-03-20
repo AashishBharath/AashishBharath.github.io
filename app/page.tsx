@@ -15,7 +15,7 @@ export default function HomePage() {
           <div>
             
             
-            <p className="hero-lead">
+            <p className="hero-lead home-hero-lead">
             Hi there! My name is{" "}
             <Link
               href="https://www.linkedin.com/in/aashishbharath/"
@@ -24,9 +24,11 @@ export default function HomePage() {
             >
               Aashish
             </Link>
-            . Nice to meet you. 
+            . Nice to meet you. I’m a builder. I enjoy turning ideas into reality,
+            solving meaningful problems, and continuously improving the way things work
+            in the systems I create and the life I live. 
             </p>
-            <div className="button-row">
+            <div className="button-row home-hero-buttons">
               <Link className="button button--primary" href="/projects">
                 View Projects
               </Link>

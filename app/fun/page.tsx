@@ -14,10 +14,10 @@ export default function FunPage() {
       <div className="page">
         <section className="hero">
           <span className="eyebrow">Interests</span>
-          <h1 className="hero-title">
+          <h1 className="hero-title home-hero-lead">
             Creative work keeps my perspective sharp.
           </h1>
-          <p className="hero-lead">
+          <p className="hero-lead home-hero-lead">
             I enjoy experimenting with AI image generation and drone
             photography. Both help me think about composition, context, and
             storytelling in visual form.
